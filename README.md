@@ -13,16 +13,6 @@ Cross-Platform Joy: Designed to work seamlessly on both iOS and Android.
 # Installation
 To get started with React-Native-Crazy-Bubbles in your project, run:
 
-```bash
-npm install react-native-crazy-bubbles
-```
-
-or, if you're using yarn:
-
-```bash
-yarn add react-native-crazy-bubbles
-```
-
 # usage
 Implementing CrazyBubbles in your app is as simple as:
 
