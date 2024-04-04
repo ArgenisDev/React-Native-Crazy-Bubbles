@@ -10,9 +10,6 @@ Plug and Play: Getting started is a breeze. With just a few lines, you can infus
 Fully Customizable: You're in control. Tailor the bubble size, color, and dynamics to fit your app's mood.
 Cross-Platform Joy: Designed to work seamlessly on both iOS and Android.
 
-# Installation
-To get started with React-Native-Crazy-Bubbles in your project, run:
-
 # usage
 Implementing CrazyBubbles in your app is as simple as:
 
