@@ -1,0 +1,36 @@
+{
+  "name": "React-Native-Crazy-Bubbles",
+  "version": "1.0.0",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "scripts": {
+    "android": "react-native run-android",
+    "ios": "react-native run-ios",
+    "lint": "eslint .",
+    "start": "react-native start",
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ArgenisDev/React-Native-Crazy-Bubbles"
+  },
+  "dependencies": {
+    "react": "18.2.0",
+    "react-native": "0.73.6",
+    "react-native-reanimated": "^3.8.1"
+  },
+  "keywords": [
+    "react-native",
+    "splash",
+    "animation",
+    "bubbles"
+  ],
+  "author": "ArgenisDev",
+  "license": "MIT",
+  "peerDependencies": {
+    "react": "^17.0.1",
+    "react-native": ">=0.63.4",
+    "react-native-reanimated": ">=3.1.0"
+  }
+}
