@@ -1,4 +1,4 @@
-[![Watch the video](https://img.youtube.com/vi/zh8gwHDXdKg/0.jpg)](https://youtu.be/zh8gwHDXdKg)
+[![Watch the gif](https://github.com/ArgenisDev/React-Native-Crazy-Bubbles/blob/main/example.gif)](https://github.com/ArgenisDev/React-Native-Crazy-Bubbles/blob/main/example.gif)
 
 # React-Native-Crazy-Bubbles
 
