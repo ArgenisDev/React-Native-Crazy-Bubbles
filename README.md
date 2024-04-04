@@ -38,22 +38,19 @@ const MyApp = () => (
 export default MyApp;
 
 
-Customization
-CrazyBubbles is designed to be fully customizable, allowing you to tailor the appearance and behavior of the bubbles to perfectly match the style and theme of your application. Below are the props you can adjust to customize your CrazyBubbles component:
+# Customization
+`CrazyBubbles` is all about tailoring the animation to fit the unique style of your app. You can customize the component using the following properties:
 
-color: string[]:
+| Prop                    | Description                                                                                     | Default |
+|-------------------------|-------------------------------------------------------------------------------------------------|---------|
+| **`color`**             | An array of strings defining the colors of the bubbles. Example: `['#ff0000', '#00ff00']`.     | `[]`    |
+| **`size`**              | The maximum size of the bubbles in pixels. Bubbles will vary in size up to this maximum.       | `50`    |
+| **`duration`**          | The duration (in milliseconds) for each bubble's animation from the bottom to the top.         | `4000`  |
+| **`numberOfParticles`** | The total number of bubbles displayed at any given time.                                       | `300`   |
 
-An array of color strings that determines the colors of the bubbles. Colors are chosen randomly from this array for each bubble. This allows for a vibrant and diverse color palette that can be aligned with your app's design. For example, ['#ff0000', '#00ff00', '#0000ff'] would create bubbles in red, green, and blue.
-size: number:
+### Example Usage
 
-Sets the maximum size of the bubbles in pixels. Each bubble is generated with a random size up to this maximum, giving a natural variation that enhances the visual appeal of the animation. A larger size will create bigger, more prominent bubbles.
-duration: number (milliseconds):
-
-Defines how long each bubble's ascent animation should last from the moment it appears at the bottom until it disappears at the top. A shorter duration results in faster-moving bubbles, while a longer duration creates a slower, more gentle rising effect. This can affect the overall energy and mood of the animation.
-numberOfParticles: number (default: 300):
-
-Specifies the total number of bubbles to display at any given time. Increasing this number creates a denser, more lively bubble effect, while decreasing it results in a more sparse, tranquil appearance. The default value is set to 300, offering a balanced look, but feel free to adjust this number to suit the visual density you're aiming for in your application.
-Customizing CrazyBubbles is straightforward. Here's an example of how to implement these props:
+To customize your `CrazyBubbles` component, you can adjust its properties as follows:
 
 ```jsx
 <CrazyBubbles
