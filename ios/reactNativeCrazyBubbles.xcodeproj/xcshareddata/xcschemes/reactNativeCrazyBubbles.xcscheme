@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-               BuildableName = "animationParticles.app"
-               BlueprintName = "animationParticles"
-               ReferencedContainer = "container:animationParticles.xcodeproj">
+               BuildableName = "reactNativeCrazyBubbles.app"
+               BlueprintName = "reactNativeCrazyBubbles"
+               ReferencedContainer = "container:reactNativeCrazyBubbles.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "00E356ED1AD99517003FC87E"
-               BuildableName = "animationParticlesTests.xctest"
-               BlueprintName = "animationParticlesTests"
-               ReferencedContainer = "container:animationParticles.xcodeproj">
+               BuildableName = "reactNativeCrazyBubblesTests.xctest"
+               BlueprintName = "reactNativeCrazyBubblesTests"
+               ReferencedContainer = "container:reactNativeCrazyBubbles.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -55,9 +55,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "animationParticles.app"
-            BlueprintName = "animationParticles"
-            ReferencedContainer = "container:animationParticles.xcodeproj">
+            BuildableName = "reactNativeCrazyBubbles.app"
+            BlueprintName = "reactNativeCrazyBubbles"
+            ReferencedContainer = "container:reactNativeCrazyBubbles.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -72,9 +72,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "animationParticles.app"
-            BlueprintName = "animationParticles"
-            ReferencedContainer = "container:animationParticles.xcodeproj">
+            BuildableName = "reactNativeCrazyBubbles.app"
+            BlueprintName = "reactNativeCrazyBubbles"
+            ReferencedContainer = "container:reactNativeCrazyBubbles.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

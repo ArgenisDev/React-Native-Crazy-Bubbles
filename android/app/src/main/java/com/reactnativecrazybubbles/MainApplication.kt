@@ -1,4 +1,4 @@
-package com.animationparticles
+package com.reactnativecrazybubbles
 
 import android.app.Application
 import com.facebook.react.PackageList

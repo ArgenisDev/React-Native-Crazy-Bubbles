@@ -7,11 +7,11 @@
 #define TIMEOUT_SECONDS 600
 #define TEXT_TO_LOOK_FOR @"Welcome to React"
 
-@interface animationParticlesTests : XCTestCase
+@interface reactNativeCrazyBubblesTests : XCTestCase
 
 @end
 
-@implementation animationParticlesTests
+@implementation reactNativeCrazyBubblesTests
 
 - (BOOL)findSubviewInView:(UIView *)view matching:(BOOL (^)(UIView *view))test
 {
